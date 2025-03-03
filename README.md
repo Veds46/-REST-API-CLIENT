@@ -21,3 +21,6 @@ Error handling is a critical component of API-based applications. Issues such as
 Proper documentation and code commenting are essential for maintainability. I will include detailed comments explaining each function and API call, making the code easier to understand for future reference. Additionally, I will store my project in a GitHub repository for version control, enabling easy tracking of updates and collaboration if needed.
 To complete this task successfully, I will utilize online resources like Google, YouTube tutorials, and ChatGPT for troubleshooting and optimization. Following the video guidance provided on WhatsApp and staying updated with group notifications will also help in aligning my work with internship requirements.
 
+#OUTPUT# :
+
+![Image](https://github.com/user-attachments/assets/a1b1e85f-cc62-4f34-80d5-45ecb98aef45)
